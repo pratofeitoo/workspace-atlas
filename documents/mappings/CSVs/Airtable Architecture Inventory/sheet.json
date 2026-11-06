@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "name": "Airtable Architecture Inventory",
+  "columns": [
+    {
+      "id": "title",
+      "name": "asset_id",
+      "type": "title"
+    },
+    {
+      "id": "parent_asset_id",
+      "name": "parent_asset_id",
+      "type": "text"
+    },
+    {
+      "id": "level",
+      "name": "level",
+      "type": "number"
+    },
+    {
+      "id": "resource_type",
+      "name": "resource_type",
+      "type": "text"
+    },
+    {
+      "id": "name",
+      "name": "name",
+      "type": "text"
+    },
+    {
+      "id": "external_id",
+      "name": "external_id",
+      "type": "text"
+    },
+    {
+      "id": "field_count",
+      "name": "field_count",
+      "type": "number"
+    },
+    {
+      "id": "url",
+      "name": "url",
+      "type": "text"
+    },
+    {
+      "id": "map_reference",
+      "name": "map_reference",
+      "type": "text"
+    },
+    {
+      "id": "source_date",
+      "name": "source_date",
+      "type": "date"
+    }
+  ],
+  "views": [
+    {
+      "id": "default",
+      "name": "Table",
+      "type": "table",
+      "filters": [],
+      "sorts": []
+    }
+  ],
+  "defaultView": "default",
+  "created": "2026-11-06T15:18:58.772Z"
+}

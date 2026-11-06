@@ -1,0 +1,303 @@
+{
+  "documents": [
+    {
+      "name": "log",
+      "path": "documents/log.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.361Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 0,
+      "emoji": "⌨️"
+    },
+    {
+      "name": "DiverCidade HUB Drive Folder Tree.moodboard.moodboard.moodboard",
+      "path": "documents/mappings/Boards/DiverCidade HUB Drive Folder Tree.moodboard.moodboard.moodboard.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.363Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 0,
+      "emoji": "📒"
+    },
+    {
+      "name": "2026 Drive Folder Tree Mapping Notes",
+      "path": "documents/mappings/Pairing Notes/2026 Drive Folder Tree Mapping Notes.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.363Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 0,
+      "emoji": "🗂"
+    },
+    {
+      "name": "Airtable Architecture Comparison.moodboard",
+      "path": "documents/mappings/Boards/Airtable Architecture Comparison.moodboard.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.363Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 1,
+      "emoji": "🧩"
+    },
+    {
+      "name": "Mapping Pairing Note",
+      "path": "documents/mappings/Pairing Notes/Mapping Pairing Note.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.363Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 1,
+      "emoji": "📝"
+    },
+    {
+      "name": "readme",
+      "path": "documents/readme.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.361Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 2,
+      "emoji": "📑"
+    },
+    {
+      "name": "DiverCidade HUB Processos 2026 Levels 01–06 Five-Level Tree.moodboard",
+      "path": "documents/documents/mappings/Boards/DiverCidade HUB Processos 2026 Levels 01–06 Five-Level Tree.moodboard.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.364Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 2,
+      "emoji": "🌵"
+    },
+    {
+      "name": "DiverCidade HUB 2026 Folder Tree - 01 to 06 - Level 5.moodboard",
+      "path": "documents/mappings/Boards/DiverCidade HUB 2026 Folder Tree - 01 to 06 - Level 5.moodboard.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.363Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 4,
+      "emoji": "🌵"
+    },
+    {
+      "name": "DRAFTS - Google Drive Folder and File Tree.moodboard",
+      "path": "documents/mappings/Boards/DRAFTS - Google Drive Folder and File Tree.moodboard.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.363Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 6,
+      "emoji": "🌵"
+    },
+    {
+      "name": "2026 Drive Folder Tree Mapping Notes",
+      "path": "documents/Workspace Atlas/2026 Drive Folder Tree Mapping Notes.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.362Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 6,
+      "emoji": "📝"
+    },
+    {
+      "name": "Airtable Architecture Comparison",
+      "path": "documents/Workspace Atlas/Airtable Architecture Comparison.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.362Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 7,
+      "emoji": "📒"
+    },
+    {
+      "name": "Airtable Architecture Inventory Configuration",
+      "path": "documents/Workspace Atlas/Airtable Architecture Inventory Configuration.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.362Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 8,
+      "emoji": "🖇"
+    },
+    {
+      "name": "Airtable Architecture Inventory Data",
+      "path": "documents/Workspace Atlas/Airtable Architecture Inventory Data.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.362Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 9,
+      "emoji": "📎"
+    },
+    {
+      "name": "Airtable Inventory Source",
+      "path": "documents/Workspace Atlas/Airtable Inventory Source.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.362Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 10,
+      "emoji": "📎"
+    },
+    {
+      "name": "DiverCidade HUB Drive Folder Tree",
+      "path": "documents/Workspace Atlas/DiverCidade HUB Drive Folder Tree.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.362Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 11,
+      "emoji": "📒"
+    },
+    {
+      "name": "Mapping Pairing Note",
+      "path": "documents/Workspace Atlas/Mapping Pairing Note.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.362Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 12,
+      "emoji": "📝"
+    },
+    {
+      "name": "DiverCidade HUB 2026 Folder Tree 01 to 06 Level 5 JSON Canvas",
+      "path": "documents/Workspace Atlas/DiverCidade HUB 2026 Folder Tree 01 to 06 Level 5 JSON Canvas.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.362Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 13,
+      "emoji": null
+    },
+    {
+      "name": "DiverCidade HUB 2026 Folder Tree 01 to 06 Level 5 Moodboard",
+      "path": "documents/Workspace Atlas/DiverCidade HUB 2026 Folder Tree 01 to 06 Level 5 Moodboard.md",
+      "type": "document",
+      "lastModified": "2026-11-06T20:26:18.362Z",
+      "description": "",
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 14,
+      "emoji": null
+    }
+  ],
+  "folders": [
+    {
+      "name": "documents",
+      "path": "documents/documents",
+      "type": "folder",
+      "description": "",
+      "documentCount": 1,
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 0,
+      "pinned": false
+    },
+    {
+      "name": "mappings",
+      "path": "documents/mappings",
+      "type": "folder",
+      "description": "",
+      "documentCount": 6,
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 0,
+      "pinned": false
+    },
+    {
+      "name": "Airtable Architecture Inventory",
+      "path": "documents/mappings/CSVs/Airtable Architecture Inventory",
+      "type": "folder",
+      "description": "",
+      "documentCount": 0,
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 0,
+      "pinned": false
+    },
+    {
+      "name": "Workspace Atlas",
+      "path": "documents/Workspace Atlas",
+      "type": "folder",
+      "description": "",
+      "documentCount": 9,
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 1,
+      "pinned": false
+    },
+    {
+      "name": "Boards",
+      "path": "documents/mappings/Boards",
+      "type": "folder",
+      "description": "",
+      "documentCount": 4,
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 2,
+      "pinned": false
+    },
+    {
+      "name": "mappings",
+      "path": "documents/documents/mappings",
+      "type": "folder",
+      "description": "",
+      "documentCount": 1,
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 3,
+      "pinned": false
+    },
+    {
+      "name": "CSVs",
+      "path": "documents/mappings/CSVs",
+      "type": "folder",
+      "description": "",
+      "documentCount": 0,
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 3,
+      "pinned": false
+    },
+    {
+      "name": "Pairing Notes",
+      "path": "documents/mappings/Pairing Notes",
+      "type": "folder",
+      "description": "",
+      "documentCount": 2,
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 3,
+      "pinned": false
+    },
+    {
+      "name": "Boards",
+      "path": "documents/documents/mappings/Boards",
+      "type": "folder",
+      "description": "",
+      "documentCount": 1,
+      "referencedIn": [],
+      "containsReferencesTo": [],
+      "position": 4,
+      "pinned": false
+    }
+  ]
+}

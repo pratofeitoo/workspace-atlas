@@ -1,0 +1,6 @@
+# macOS metadata
+.DS_Store
+
+# Hillnote machine-local state
+.hillnote/
+.system/

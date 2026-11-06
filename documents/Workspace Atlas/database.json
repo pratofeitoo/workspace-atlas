@@ -1,0 +1,44 @@
+{
+  "name": "Workspace Atlas",
+  "columns": [
+    {
+      "id": "title",
+      "name": "Title",
+      "type": "title",
+      "width": 300
+    },
+    {
+      "id": "tags",
+      "name": "Tags",
+      "type": "text",
+      "width": 200
+    },
+    {
+      "id": "format",
+      "name": "Format",
+      "type": "text"
+    },
+    {
+      "id": "source_path",
+      "name": "Source Path",
+      "type": "text"
+    },
+    {
+      "id": "summary",
+      "name": "Summary",
+      "type": "text"
+    }
+  ],
+  "views": [
+    {
+      "id": "default",
+      "name": "All Items",
+      "type": "table",
+      "filters": [],
+      "sorts": [],
+      "hiddenColumns": []
+    }
+  ],
+  "defaultView": "default",
+  "folderKind": "database"
+}

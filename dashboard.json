@@ -1,0 +1,37 @@
+{
+  "defaultView": "dashboard",
+  "widgets": [
+    {
+      "id": 1793979040665,
+      "type": "clock",
+      "config": {},
+      "size": "full",
+      "height": 1,
+      "position": 0
+    },
+    {
+      "id": 1793976992392,
+      "type": "document-count",
+      "config": {},
+      "size": "single",
+      "height": 1,
+      "position": 1
+    },
+    {
+      "id": 1793977005908,
+      "type": "database",
+      "config": {},
+      "size": "single",
+      "height": 1,
+      "position": 2
+    },
+    {
+      "id": 1793977011141,
+      "type": "sheet",
+      "config": {},
+      "size": "single",
+      "height": 1,
+      "position": 3
+    }
+  ]
+}
