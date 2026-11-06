@@ -1,6 +1,6 @@
 import fs from "fs"
 import path from "path"
-import { execSync } from "child_process"
+import { execFileSync, execSync } from "child_process"
 import { styleText } from "util"
 import {
   readPluginsJson,
@@ -244,8 +244,8 @@ export async function handlePluginInstall() {
     } else {
       try {
         console.log(styleText("cyan", `  → ${name}: cloning...`))
-        const branchArg = entry.ref ? ` --branch ${entry.ref}` : ""
-        execSync(`git clone --depth 1${branchArg} ${entry.resolved} ${pluginDir}`, {
+        const branchArgs = entry.ref ? ["--branch", entry.ref] : []
+        execFileSync("git", ["clone", "--depth", "1", ...branchArgs, entry.resolved, pluginDir], {
           stdio: "ignore",
         })
         if (entry.commit !== "unknown") {

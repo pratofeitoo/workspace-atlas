@@ -15,7 +15,8 @@ export async function glob(
     await globby(pattern, {
       cwd,
       ignore: ignorePatterns,
-      gitignore: true,
+      // Content is staged from an explicit list of tracked vault folders.
+      gitignore: false,
     })
   ).map(toPosixPath)
   return fps as FilePath[]
