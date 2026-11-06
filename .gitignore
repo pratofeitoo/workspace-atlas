@@ -4,3 +4,9 @@
 # Hillnote machine-local state
 .hillnote/
 .system/
+
+.quartz-site/node_modules/
+.quartz-site/.quartz/
+.quartz-site/.quartz-cache/
+.quartz-site/content/
+.quartz-site/public/
