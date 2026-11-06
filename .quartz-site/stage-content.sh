@@ -10,8 +10,8 @@ title: Workspace Atlas
 
 Browse the workspace notes in the sidebar or open a map below.
 
-- [[mappings JSON canvas/airtable-records-hillnote-clone.canvas|Airtable records]]
-- [[mappings JSON canvas/divercidade-hub-2026-folder-tree-01-to-06-level-5.canvas|2026 folder tree]]
-- [[mappings JSON canvas/divercidade-hub-drive-folder-tree-hillnote-clone.canvas|Drive folder tree]]
-- [[mappings JSON canvas/drafts-google-drive-folder-and-file-tree-hillnote-clone.canvas|Drafts folder and file tree]]
+- <a href="./mappings%20JSON%20canvas/airtable-records-hillnote-clone.html">Airtable records</a>
+- <a href="./mappings%20JSON%20canvas/divercidade-hub-2026-folder-tree-01-to-06-level-5.html">2026 folder tree</a>
+- <a href="./mappings%20JSON%20canvas/divercidade-hub-drive-folder-tree-hillnote-clone.html">Drive folder tree</a>
+- <a href="./mappings%20JSON%20canvas/drafts-google-drive-folder-and-file-tree-hillnote-clone.html">Drafts folder and file tree</a>
 MARKDOWN
