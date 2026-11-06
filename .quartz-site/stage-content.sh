@@ -2,7 +2,7 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 mkdir -p content
-git archive HEAD documents "mappings JSON canvas" resources | tar -xf - -C content
+git -C .. archive HEAD documents "mappings JSON canvas" resources | tar -xf - -C content
 cat > content/index.md <<'MARKDOWN'
 ---
 title: Workspace Atlas
